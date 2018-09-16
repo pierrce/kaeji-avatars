@@ -1,0 +1,34 @@
+Thank you for downloading this model edit.
+
+Please be sure to read the rules carefully.
+
+All my models are allowed to be freely edited and redistributed. This includes any new models that I will be releasing in the future. 
+
+When redistributing your edit, you must put in my original readme. It includes the proper credits.
+
+When editing, I STRONGLY SUGGEST to please actually make the effort to editing. 
+Do not make a headswap and consider it another Vocaloid character or OC.
+
+Any rules from TDA SHOULD STILL BE FOLLOWED. [R-18 rule, etc.]
+
+Do not upload separate parts or a base and make them available for download.
+
+Parts list:
+TDA / Agahat / samsink / iRon0129 / Žá—B(Ruowei) / VK / CM-E6 / HeyMisaki-chan 
+
+
+Contact EndiBell on dA for any questions.
+Special Credits go to PMXSenpai @ dA for fixing various issues.
+
+Updated 5 / 23 / 2017
+
+12/08/16 [1.10]
+Organized folders.
+Deleted unneeded physics, bones and joints on dress.
+Fixed parent bone [Back and Necklace piece should be moving with model when physics off] Thank you to @PMXSenpai for the help!
+Toons have been removed.
+Added VK's Neru Akita Readme files.
+
+
+12/06/16
+Model Released.
